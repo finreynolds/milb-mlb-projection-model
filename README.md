@@ -1,4 +1,4 @@
-# Minor League to MLB Projection Model
+# MiLB to MLB Projection Model
 
 This project trains a neural network using PyTorch to project basic MLB statistics from Minor League hitting metrics.
 
